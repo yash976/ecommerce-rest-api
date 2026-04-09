@@ -116,14 +116,12 @@ mvn spring-boot:run
 
 ---
 
-## 🎯 Why This Project Is Great for Recruiters  
-- Clean and easy project structure  
-- Fully working real-world API  
-- JWT-based authentication  
-- Multiple modules (Products, Cart, Orders)  
-- Demonstrates backend architecture understanding  
-- Perfect for GitHub pinned projects  
-
+## 🎯 Highlights
+- Simple, well-organized backend architecture
+- Covers core real-world modules: authentication, products, cart, orders
+- Implements JWT authentication and role-based access
+- Demonstrates clean coding practices using services, DTOs, and controllers
+- Easy for anyone to run and understand the project flow
 ---
 
 ## 🙌 Author  
